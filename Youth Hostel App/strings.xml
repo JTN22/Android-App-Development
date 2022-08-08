@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hostel</string>
+    <string name="txtTitle">Dingo Moon Hostel</string>
+    <string name="description">Hostel Image</string>
+    <string name="btnHostel">Hostel Information</string>
+    <string name="txtTitle2">Dingo Moon Hostel</string>
+    <string name="txtAddress">88 Kangaroo Lane Darwin, Australia</string>
+    <string name="txtCost">Cost Range: $18 - $22 a night</string>
+</resources>
