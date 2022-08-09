@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Celtic">
+
+    <ImageView
+        android:id="@+id/imgJig"
+        android:layout_width="match_parent"
+        android:layout_height="208dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="63dp"
+        android:contentDescription="@string/jig"
+        app:srcCompat="@drawable/jig" />
+
+    <Button
+        android:id="@+id/btnJig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="282dp"
+        android:text="@string/btnJIG"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/imgBagpipes"
+        android:layout_width="310dp"
+        android:layout_height="213dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="45dp"
+        android:layout_marginBottom="117dp"
+        android:contentDescription="@string/bagpipes"
+        app:srcCompat="@drawable/bagpipes" />
+
+    <Button
+        android:id="@+id/btnBagpipes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="54dp"
+        android:text="@string/btnBagpipes"
+        android:textSize="22sp" />
+</RelativeLayout>
