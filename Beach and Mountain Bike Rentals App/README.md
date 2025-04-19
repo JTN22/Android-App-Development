@@ -10,7 +10,7 @@
    - Link to a full bike rental shop website  
 2. When the user selects an item from the list:  
    - A full-screen image of the selected bike appears (for the first two options).  
-   - The third option opens [https://www.campusbikespopcorn.com](https://www.campusbikespopcorn.com) in a web browser.
+   - The third option opens http://www.campusbikeshop.com in a web browser.
 
 **⚙️ Conditions:**  
 - Use provided images: `beach.png` and `mountain.png`.  
