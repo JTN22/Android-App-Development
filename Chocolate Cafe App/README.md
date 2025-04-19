@@ -7,7 +7,7 @@
 1. The opening screen displays three dessert specials of the day and shows a custom icon linking to the full website.  
 2. When the user selects a dessert (chocolate mousse, chocolate cake, or chocolate macaron):  
    - The related dessert image is displayed.  
-   - If the "full website" is selected, open: [http://www.chocolatiernl.com](http://www.chocolatiernl.com)
+   - If the "full website" is selected, open: http://www.chocolatharlem.com
 
 **⚙️ Conditions:**  
 - Use a launcher icon named `ic_launcher_dessert.png`  
