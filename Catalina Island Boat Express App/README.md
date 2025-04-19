@@ -1,7 +1,11 @@
-# Case Project: Catalina Island Boat Express App
-Requirements Document <br /> <br />
-Application title: Catalina Island Boat Express App <br />
-Purpose: Catalina Express has 30 daily departures between Long Beach and Catalina Island. Create a simple app that determines how many boat tickets the user needs and whether the ticket is for going to Catalina Island or heading back to Long Beach. The app displays the total price for the fare in one direction. <br />
-Algorithms: <br />
-1. The app displays a title; an image; and a Text Field, Spinner, and Button control. The two options in the Spinner control include To Catalina Island and To Long Beach. Each single passenger ticket is $34 for one way. <br />
-2. When the user taps or clicks the Button control, the number of tickets and the total cost of the fare is displayed. <br />
+# ⛴️ Case Project: Catalina Island Boat Express App
+
+**📝 Application Title:** Catalina Island Boat Express App  
+**🎯 Purpose:** Catalina Express has 30 daily departures between Long Beach and Catalina Island. This app determines how many boat tickets the user needs and whether the trip is to Catalina Island or back to Long Beach. It displays the total fare for a one-way trip.  
+**🧠 Algorithms:**  
+1. The app displays a title, an image, a `TextField`, `Spinner`, and `Button` control.  
+   - Spinner options: "To Catalina Island" and "To Long Beach"  
+   - Each one-way passenger ticket: **$34**  
+2. When the user taps the button, the app displays the number of tickets and the total fare.
+
+> 📚 *Note: This case project is from the 3rd edition (2016) of "Android Boot Camp for Developers Using Java" by Corinne Hoisington. Fare rates or destinations may have changed—feel free to verify with current Catalina Express pricing.*
