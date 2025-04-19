@@ -1,7 +1,12 @@
-# Case Project: Triathlon Registration App
-Requirements Document <br /> <br />
-Application title: Triathlon Registration App <br />
-Purpose: A triathlon registration app allows an athlete to register for one of three national triathlons to qualify for the Ironman World Championship. <br />
-Algorithms: <br />
-1. The triathlon registration app has two Text Fields: One requests the number of athletes on the user’s team ($725), and the other requests the location. A Spinner control allows the athlete to select one of the three possible locations: Lake Placid, Big Island Hawaii, and Miami. The app also displays a title, an image, and a Button control. <br />
-2. After the user taps or clicks the Button control, the selected location and the total team cost are displayed in a TextView control.
+# 🚴‍♀️ Case Project: Triathlon Registration App
+
+**📝 Application Title:** Triathlon Registration App  
+**🎯 Purpose:** This app allows an athlete to register for one of three national triathlons to qualify for the Ironman World Championship.  
+**🧠 Algorithms:**  
+1. The app includes two text fields:  
+   - One for the number of athletes on the user’s team (each costing $725)  
+   - One for selecting a location from: Lake Placid, Big Island Hawaii, and Miami  
+   A spinner control allows selection, and a button is used to submit the information.  
+2. After the user taps the button, the selected location and the total team cost are displayed in a `TextView`.
+
+> 📚 *Note: This case project is based on the 3rd edition (2016) of "Android Boot Camp for Developers Using Java" by Corinne Hoisington. Location options and registration fees may have changed—consider customizing with current triathlon data if desired.*
