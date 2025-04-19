@@ -1,6 +1,6 @@
 # 📱 Android App Development in Java
 
-This repository contains a collection of beginner-to-intermediate level Android applications built using **Java** and **Android Studio**. Each project focuses on a specific skill—ranging from UI design and user interaction to data persistence, animations, and multi-screen navigation.
+This repository contains a collection of beginner-to-intermediate level Android applications built using **Java** and **Android Studio**. Each project focuses on a specific skill, ranging from UI design and user interaction to data persistence, animations, and multi-screen navigation.
 
 The projects are based on case studies from the *Android Boot Camp for Developers Using Java*, 3rd Edition (2016) by **Corinne Hoisington**.
 
