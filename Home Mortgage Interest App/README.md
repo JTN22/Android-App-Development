@@ -10,7 +10,7 @@
    - Loan term (10, 20, or 30 years, converted to months)  
    - Initial loan principal  
    These values are saved using **SharedPreferences**.  
-3. On the second screen, retrieve the saved values and compute the total interest using the formula:
+3. On the second screen, retrieve the saved values and compute the total interest using the formula: Total Interest = (Monthly Payment × Number of Months) − Initial Principal
 4. Display the result along with an image (`ten.png`, `twenty.png`, or `thirty.png`) that matches the selected loan term.
 
 **⚙️ Conditions:**  
